@@ -11,7 +11,7 @@ while ((z == "A") or (z == "M")):
 				b = input("Entrez le deuxieme valeur: ")
 				a = int(a) 
 				b = int(b)
-				print(add(a,b))
+				print(add_num(a,b))
 				break
 			elif (a=="q"):
 				break
