@@ -1,4 +1,4 @@
-
+from addTwoIntc import add_num
 from mulTwoInt import mul
 z= " "
 z = input("Choisi entre A pour additioner ou M multiplier: ")
